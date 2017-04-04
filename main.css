@@ -24,6 +24,17 @@ body {
 	border-color: black;
 	border-style: solid;
 	margin: 0 auto;
+	background: white;
+}
+
+.sign-up legend {
+    text-align: center;
+    font-weight: 300;
+    color: #565656;
+    margin: 0 auto 45px;
+    font-size: 35px;
+    line-height: 38px;
+    letter-spacing: 0;
 }
 
 .footer {
@@ -72,13 +83,14 @@ button[type='submit'] {
     color: #999;
 }
 
-.signup-form a {
+.sign-up a {
     text-decoration: none;
-    color: #999;
+    text-align:center;
+    color: green;
     border-bottom: 1px solid #bbb;
 }
 
-.signup-form a:hover {
+.sign-up a:hover {
     border-color: #999;
     color: #777;
 }
