@@ -8,8 +8,6 @@ body {
 	margin: 0 auto;
 	padding-bottom: 20px;
 	padding-top: 5%;
-
-
 }
 
 .sign-up {
@@ -20,9 +18,26 @@ body {
 	position: relative;
 	border-color: black;
 	border-style: solid;
+	margin: 0 auto;
+}
+
+.footer {
+	display:block;
 	text-align: center;
 	margin: 0 auto;
+}
 
+#email {
+	display: block;
+	margin: 0 auto;
+}
+
+#password {
+	display: block;
+	margin: 0 auto;;
+}
+
+}
 
 
 }
