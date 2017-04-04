@@ -1,8 +1,13 @@
+body {
+	background-color: #4496E4;
+}
+
 .logo {
 	display: block;
 	height: 35px;
 	margin: 0 auto;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
+	padding-top: 5%;
 
 
 }
