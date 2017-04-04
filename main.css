@@ -1,0 +1,23 @@
+.logo {
+	display: block;
+	height: 35px;
+	margin: 0 auto;
+	padding-bottom: 10px;
+
+
+}
+
+.sign-up {
+	display: block;
+	width: 360px;
+	padding-left: 40px;
+	padding-right: 40px;
+	position: relative;
+	border-color: black;
+	border-style: solid;
+	text-align: center;
+	margin: 0 auto;
+
+
+
+}
